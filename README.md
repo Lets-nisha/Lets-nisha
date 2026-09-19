@@ -1,7 +1,19 @@
 # Hi there, I'm Nisha 👋
 
-🚀 **Front-end / MERN-Stack Developer** passionate about building modern web applications!
-💻 **Tech Stack:** JavaScript | React.js | Node.js | Express.js | MongoDB | Tailwind CSS | Postman
+🚀 **Front-end / MERN-Stack Developer** passionate about building modern web applications! 
+---
+
+### 💻 Tech Stack
+
+* JavaScript
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* Tailwind CSS
+* Postman
+
+---
 
 ---
 
