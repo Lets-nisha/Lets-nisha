@@ -1,8 +1,8 @@
 # Hi there, I'm Nisha 👋
 
-🚀 **Front-end Developer** | Passionate about building great apps!
+🚀 **Front-end & Node.js Developer** | Passionate about building great web apps!
 
-💡 **Tech Enthusiast** || 📱 **Web & App Dev**
+💡 **Tech Enthusiast** || 📱 **Website Dev**
 
 ---
 
@@ -15,7 +15,7 @@
   <a href="https://portfoliocomn95.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:nishabii9520@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
