@@ -1,6 +1,6 @@
 # Hi there, I'm Nisha 👋
 
-🚀 Java Full-Stack Developer | UI/UX Design. | Passionate about building great website / web apps!
+🚀 Java Full-Stack Developer | UI/UX Design. | Passionate about building great website & web apps!
 
 💡 **Tech Enthusiast** || 📱 **Website Dev**
 
