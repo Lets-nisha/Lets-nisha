@@ -1,6 +1,6 @@
 # Hi there, I'm Nisha 👋
 
-🚀 **Front-end & Node.js Developer** | Passionate about building great web apps!
+🚀 Java Full-Stack Developer | UI/UX Design. | Passionate about building great web apps!
 
 💡 **Tech Enthusiast** || 📱 **Website Dev**
 
